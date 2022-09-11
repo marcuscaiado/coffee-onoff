@@ -2,7 +2,7 @@
 
 https://marcuscaiado.github.io/coffee-onoff
 
-On and Off animation with a cup of coffee
+On/Off Toggle Switch Animation with a cup of coffee.
 
 CSS Only
 
